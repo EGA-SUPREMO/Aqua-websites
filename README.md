@@ -14,13 +14,13 @@ At first it'll just a mere gallery but then It'll turn in a e-commerce and inste
 
 * Called: Losing Minds, from time to time, without any reason, my laptop like to scared me with crap like this:
 
-![](https://github.com/EGA-SUPREMO/Tankoj/blob/master/LosingMinds.webp)
+![](https://raw.githubusercontent.com/EGA-SUPREMO/Aqua-websites/master/LosingMinds.webp)
 
 * Called: Hope, notice how the moon alone is as bright as the sun while being shrouded in total darkness.
 
 If the moon can shine in that condition, why wouldn't you?
 
-![](https://github.com/EGA-SUPREMO/Tankoj/blob/master/hope.webp)
+![](https://raw.githubusercontent.com/EGA-SUPREMO/Aqua-websites/master/hope.webp)
 
 Beautiful isn't it? you know what else it's beautiful?~~yo mama~~ The compression efficiency of WebP images, look how those 1080p pictures size 207 KB combined, not even in your wildest dreams can that quality in JPG or PNG below 5 MB.
 
