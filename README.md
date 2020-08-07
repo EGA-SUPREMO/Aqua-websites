@@ -12,13 +12,13 @@ At first it'll just a mere gallery but then It'll turn in a e-commerce and inste
 * 0.5 $ for photos with a strong watermark
 * 50 $ for photos like this~~always prices high af because I'm not gonna get any sells so I want to say that it's because of the price not the quality~~:
 
-* Called: Losing Minds, from time to time, without any reason, my laptop like to scared me with crap like this:
+* _Losing Minds_: from time to time, without any reason, my laptop like to scare me with crap like this:
 
 ![](https://raw.githubusercontent.com/EGA-SUPREMO/Aqua-websites/master/LosingMinds.webp)
 
-* Called: Hope, notice how the moon alone is as bright as the sun while being shrouded in total darkness.
+* _Hope_: notice how the moon alone is as bright as the sun while shrouded in total darkness.
 
-If the moon can shine in that condition, why wouldn't you?
+If the moon can shine in those conditions, why wouldn't you?
 
 ![](https://raw.githubusercontent.com/EGA-SUPREMO/Aqua-websites/master/hope.webp)
 
@@ -27,7 +27,7 @@ Beautiful isn't it? you know what else it's beautiful?~~yo mama~~ The compressio
 I can showcase my photos and at the time earn lots of money, two birds one stone!!1
 
 Pic related:
-![](https://github.com/EGA-SUPREMO/Tankoj/blob/master/nunocrpicff51.jpg)
+![](https://github.com/EGA-SUPREMO/Aqua-websites/blob/master/nunocrpicff51.jpg)
 
 ### Why being bed when you can just git gud ez
 Alternative title: WBBWYCJGGE
