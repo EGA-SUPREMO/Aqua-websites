@@ -40,6 +40,7 @@ This open sources websites are made with the only purpose of gaining personal pr
 
 This repo is as orginal as my lunch, so please respect that, but if you're really interested in being part of my success, just find a way to help me, ill remember you when I make it big, promise!!!1
 ![](https://github.com/EGA-SUPREMO/Aqua-websites/blob/master/instegrem.webp)
+_Tasteful lunch - Instagram Style_
 
 ## License
 GNU, you are allowed to whatever you want with everything whenever you wish, even things that I don't have licensing rights.
